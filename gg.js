@@ -37,10 +37,9 @@ function click1()
 	return false;
 }
 
-function onClick()
+function click1();
 {
 	alert("Работа завершена");
-        function click1();
 }
 
 window.addEventListener("DOMContentLoaded", function (event)
