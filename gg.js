@@ -40,6 +40,7 @@ function click1()
 function onClick()
 {
 	alert("Работа завершена");
+        function click1();
 }
 
 window.addEventListener("DOMContentLoaded", function (event)
